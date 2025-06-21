@@ -1,0 +1,203 @@
+6
+1P1
+feeling schizophrenic 
+“I may be schizophrenic but atleast I have eachother”
+14 05 2025
+2
+u1 “cool”
+u5 “bruh”
+5
+u1 u2 u3 u4 u5
+1P2
+thinking-about clash royale
+“new balance changes are too bad”
+13 04 2025
+3
+u2  “Agreed”
+u3  “canon cart is dead”
+u4  “credit card nerf”
+3
+u2 u3 u4
+1P3
+making memories
+“defeated Yaseen in CR 45-0 score”
+03 04 2025
+5
+u3  “wow”
+u4  “the goat”
+u5  “cool”
+u1  “hehe”
+u2  “im crying in corner”
+2
+u3 u4
+1P4
+celebrating success
+“Reached 9000 trophies”
+31 04 2025
+5
+u4  “Congratulations!”
+u3  “Well done!”
+u2  “Great job!”
+u5  “Keep it up!”
+u1  “Awesome achievement!”
+5
+u1 u2 u3 u4 u5
+1P5
+feeling sleepy
+“i can understand why chickens wake up and scream”
+13 05 2024
+4
+u5  “get some rest then”
+u3  “can't relate”
+u1  “:(”
+u2  “us moment”
+0
+1P6
+celebrating new rank
+“Just hit ultimate champion”
+13 05 2024
+5
+u2  “Congratulations!”
+u3  “You did it!”
+u1  “Hard work pays off”
+u5  “So proud of you!”
+u4  “Way to go!”
+5
+u1 u2 u3 u4 u5
+4
+2P1
+shared coding
+“Solving 999999 leetcode problems today!”
+14 05 2025
+2
+u1 “theeta”
+u3 “You got this!”
+2
+u1 u3
+2P2
+feeling calm
+“just finished a difficult project!”
+13 05 2025
+3
+u4 “Impressive!”
+u5 “Well done!”
+u2 “Great achievement!”
+3
+u4 u5 u2
+2P3
+learning a lesson
+“just got defeated by Ahmad The Goat in CR”
+12 05 2025
+4
+u1 “hehehehe”
+u4 “oops”
+u5 “womp womp”
+u2 “tch tch tch”
+4
+u1 u4 u5 u2
+2P4
+shared playlist
+“check out my playlist even though it's not as good as Ahmad Mursaleen”
+15 05 2024
+2
+u2 “lalalalala”
+u3 “nicee”
+0
+3
+3P1
+shared destruction 
+“just destroyed 6 planets”
+14 05 2025
+2
+u1 “damnn”
+u2 “spare earth bro”
+2
+u1 u2
+3P2
+shared achievement 
+“just defeated thanoss”
+13 05 2025
+3
+u4 “Yayyyy”
+u5 “slayyyyy”
+u2 “u go girliee”
+3
+u4 u5 u1
+3P3
+doing homework of Ahmad
+“damn this is kinda tough, I'd rather do anything els”
+15 05 2024
+1
+u1 “good boy”
+1
+u1
+5
+4P1
+shared new outfit
+“check my drip”
+14 05 2025
+2
+u2 “Slayyyy”
+u3 “Ateee”
+2
+u2 u3
+4P2
+shared new achievement 
+“i got a brand new saxophone wa wa wa wa wa”
+13 05 2025
+3
+u1 “aw hell nahh”
+u3 “hits hard when muted”
+u5 “bruh”
+3
+u1 u3 u5
+4P3
+shared morning routine 
+“doing crazy things”
+05 05 2025
+1
+u1 “lmao”
+1
+u1
+4P4
+feeling happy
+“just woke up, life's good”
+01 05 2025
+3
+u2 “can't relate”
+u4 “i understand why chickens wake up and scream”
+u5 “nicee”
+3
+u2 u4 u3
+4P5
+feeling hungry
+“So hungry i could eat a horse”
+15 05 2024
+2
+u1 “yea you could”
+u5 “pick cotton boy”
+2
+u1 u5
+2
+5P1
+shared 100 men vs 1 gorilla
+“can they really beat him or get beaten”
+14 05 2025
+3
+u3 “easy win”
+u4 “nahh, gorilla solos”
+u1 “inserts a funny gif”
+3
+u3 u4 u5
+5P2
+shared buying mars
+“just bought mars for my next video”
+15 05 2024
+1
+u2 “damnnn”
+1
+u2
+
+
+
+

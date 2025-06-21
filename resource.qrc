@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gene-sequence-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
