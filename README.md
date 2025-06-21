@@ -1,6 +1,7 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AVM4D/Yapocalypse)
 # 📱 Yapocalypse — A Social Network Desktop App
 
-A modern, feature-rich social media platform built using **C++ and the Qt Framework**. Yapocalypse simulates core social media functionality in a native desktop environment — providing a user-centric experience with friend lists, timelines, memories, and more.
+A modern, feature-rich social media platform built using **C++ and Qt**. Yapocalypse simulates core social media functionality in a native desktop environment — providing a user-centric experience with friend lists, timelines, memories, and more.
 
 ---
 
